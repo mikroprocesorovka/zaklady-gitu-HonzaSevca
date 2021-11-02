@@ -1,6 +1,6 @@
 # :wave: The Basics of GitHub 
 
-*brambora je filozofický traktát, který vyvolává zlé duchy. Nebojte se brambor, které straší u berta v baráku.
+*brambora je filozofická kniha, který vyvolává zlé duchy. ebojte se brambor, které straší u berta v baráku.
 
 ## 🤓 Course overview and learning outcomes 
 
